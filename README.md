@@ -1,7 +1,18 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/fatiasss/count.svg" alt="Visitor's Count" />
+  <img src="https://profile-counter.glitch.me/fatiasss/count.svg" alt="Visitor Count" />
 </div>
+
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,nodejs,py,express,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,godot,vscode" />
+</p>
+
+<hr>
 
 ## ⚡️ Stats
 
