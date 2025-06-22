@@ -8,11 +8,11 @@
 <br>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiasss&layout=donut" /> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatiasss&layout=donut&theme=transparent" /> 
 </a>
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fatiasss&show_icons=true&theme=transparent" /> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fatiasss&show_icons=true" /> 
 </a>
 <hr>
 
