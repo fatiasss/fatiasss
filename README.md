@@ -7,10 +7,10 @@
 
 <br>
 
-<a href="https://github.com/fatiasss/github-readme-stats">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=transparent" /> 
 </a>
-<a href="https://github.com/fatiasss/convoychat">
+<a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiasss&layout=compact&langs_count=8&card_width=320&theme=transparent&rank_icon=percentile" />
 </a>
 
