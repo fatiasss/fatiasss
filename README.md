@@ -7,11 +7,13 @@
 
 <br>
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=fatiasss&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Fatiasss' GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=fatiasss&theme=transparent&card_width=390&type=png" alt="Fatiasss' Streak" /></a>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiasss&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Fatiasss' Most Used Languages" />
-</div>
+<a href="https://github.com/fatiasss/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /> 
+</a>
+<a href="https://github.com/fatiasss/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatiasss&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <hr>
 
