@@ -6,8 +6,8 @@
 ## ⚡️ Stats
 
 <br>
-
-<a href="#">
+<div align="center">
+  <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-five-olive-79.vercel.app/api/top-langs/?username=fatiasss&layout=donut&theme=transparent&hide=jupyter%20notebook" /> 
 
 </a>
@@ -15,6 +15,8 @@
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats-five-olive-79.vercel.app/api?username=fatiasss&show_icons=true&theme=transparent&rank_icon=github" /> 
 </a>
+</div>
+
 <hr>
 
 <!--
