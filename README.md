@@ -1,6 +1,5 @@
 <div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://komarev.com/ghpvc/?username=fatiasss" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=fatiasss&color=blueviolet" alt="Visitor Count" />
 </div>
 
 ## 🛠️ Languages and Tools
